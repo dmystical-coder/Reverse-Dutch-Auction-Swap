@@ -31,3 +31,9 @@ Most swaps execute at the best available price instantly. In this challenge, you
 - ✅ Ensuring only one buyer can purchase per auction.
 - ✅ Ensuring funds and tokens are correctly swapped.
 - ✅ Testing edge cases (e.g., no buyer before auction ends).
+
+## Solution
+
+Contract address: ``` 0xa742a466edEFCe37c65603Bd0a30489d628e4c0B ```
+
+Token address: ``` 0x66646E89e971d7D14CF7af2247d6a3F2ee6A397a ```
